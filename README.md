@@ -6,6 +6,9 @@
   - [Insert](https://github.com/Yusuf-M-Mirza/Yusuf-M-Mirza)
   - [Hello World](https://github.com/Yusuf-M-Mirza/RandomProject)
 
+<h2>🏫 University Degree</h2>
+
+  - BEng(Hons) Robotics Engineering @ Queen Mary University of London
 
 <h2>📜 Completed Courses</h2>
 
