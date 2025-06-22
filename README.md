@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Insert](https://github.com/Yusuf-M-Mirza/Yusuf-M-Mirza)
   - [Hello World](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
