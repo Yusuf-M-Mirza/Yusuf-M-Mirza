@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
   - [Insert](https://github.com/Yusuf-M-Mirza/Yusuf-M-Mirza)
-  - [Hello World](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hello World](https://github.com/Yusuf-M-Mirza/RandomProject)
 
 
 <h2>📜 Certifications</h2>
