@@ -11,13 +11,16 @@
   - BEng(Hons) Robotics Engineering @ Queen Mary University of London
 
 <h2>📜 Completed Courses</h2>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://pll.harvard.edu/course/cs50s-introduction-programming-python">
+    <img src="https://i.imgur.com/04YWjjz.png" alt="CS50P" width="400" />
+  </a>
+  <a href="https://pll.harvard.edu/course/cs50s-introduction-databases-sql">
+    <img src="https://i.imgur.com/ao1O79E.png" alt="CS50SQL" width="400" />
+  </a>
+</div>
 
-https://i.imgur.com/04YWjjz.png
 
-https://i.imgur.com/ao1O79E.png
-
-- [CS50SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql)
-- [CS50P](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 
 <h2> 🤳 Connect with me:</h2>
 
