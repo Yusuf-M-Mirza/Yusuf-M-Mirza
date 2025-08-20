@@ -12,6 +12,10 @@
 
 <h2>📜 Completed Courses</h2>
 
+https://i.imgur.com/04YWjjz.png
+
+https://i.imgur.com/ao1O79E.png
+
 - [CS50SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql)
 - [CS50P](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 
