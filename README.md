@@ -3,6 +3,7 @@
 <h2>⚙️ Current Tech Stack:</h2>
 
   - **Microsoft Excel**
+    - PowerQuery
   - **MySQL**
   - **SQLite**
   - **Python**
