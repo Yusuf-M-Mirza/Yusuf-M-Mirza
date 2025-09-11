@@ -1,5 +1,14 @@
 <h1>Hi, I'm Yusuf!</h1>
 <h1>Undergraduate Student, Apiring Data Analyst</h1>
+<h2>⚙️ Current Tech Stack:</h2>
+
+  - **Microsoft Excel**
+  - **MySQL**
+  - **SQLite**
+  - **Python**
+    - Matplotlib
+    - Numpy
+    - Scipy
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
