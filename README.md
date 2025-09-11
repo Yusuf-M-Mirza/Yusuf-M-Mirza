@@ -34,8 +34,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/leetcode-xp0gbbxtpmnkjk8uhdrmhg.png/leetcode-jj5yfhjdsmrt5j9xb3sec.png?_a=DATAdtAAZAA0" />][leetcode]
+[<img align="left" alt="YusufMirza | LinkedIn" width="22px" src="https://i.imgur.com/Trov42I.png" />][linkedin]
+[<img align="left" alt="YusufMirza | Leetcode" width="22px" src="https://i.imgur.com/5GSJ4mY.png" />][leetcode]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
