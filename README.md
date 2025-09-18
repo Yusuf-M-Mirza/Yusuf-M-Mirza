@@ -13,8 +13,8 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-  - [Insert](https://github.com/Yusuf-M-Mirza/Yusuf-M-Mirza)
-  - [Hello World](https://github.com/Yusuf-M-Mirza/RandomProject)
+  - [Pedals & Patterns](https://github.com/Yusuf-M-Mirza/Project-1)
+  - [Hidden Cost of Overwork](https://github.com/Yusuf-M-Mirza/Project-2)
 
 <h2>🏫 University Degree</h2>
 
