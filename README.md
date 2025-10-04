@@ -10,6 +10,7 @@
     - Matplotlib
     - Numpy
     - Scipy
+  - **Power BI** 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
