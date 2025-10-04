@@ -14,8 +14,8 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-  - [Pedals & Patterns](https://github.com/Yusuf-M-Mirza/Excel-MySQL) [Excel-MySQL]
-  - [Hidden Cost of Overwork](https://github.com/Yusuf-M-Mirza/Python-PowerQuery) [Python-PowerQuery]
+  - [Pedals & Patterns](https://github.com/Yusuf-M-Mirza/Excel-MySQL) [Excel & MySQL]
+  - [Hidden Cost of Overwork](https://github.com/Yusuf-M-Mirza/Python-PowerQuery) [Python & PowerQuery]
 
 <h2>🏫 University Degree</h2>
 
